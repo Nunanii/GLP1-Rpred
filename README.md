@@ -6,7 +6,15 @@
 STRUCTURE OF GLUCAGON LIKE PEPTIDE RECEPTOR
 ~Structure obtain from protein database with ID 3IOL
 
-Codes for smiles calculation of compounds/molecules that are active against Glucagon Like Peptide-1 Receptor
-Codes for calculation of molecular descriptor and fingerprints(Pubchem descriptors)
-Code for data processing and augmentation
-Code for model training and performance evaluation
+
+1. Codes for smiles calculation of compounds/molecules that are active against Glucagon Like Peptide-1 Receptor
+https://colab.research.google.com/drive/13DLPZqk196WJMwv8S3Hyt5K1ewcDBfk8 (automatically updated via colab incase of updates)
+
+3. Codes for calculation of molecular descriptor and fingerprints(Pubchem descriptors)
+https://colab.research.google.com/drive/1tRODqE95piGydnBOEXBpISrfyxcKNuSQ
+
+5. Code for data processing and augmentation
+https://colab.research.google.com/drive/14i7zuyZX1XSYRtNjnZzMmGFyne0Gsqtx
+
+7. Code for model training and performance evaluation
+https://colab.research.google.com/drive/1KcXowrJ1z5Zar90f9oEH5tKmlIn0aDYk 
